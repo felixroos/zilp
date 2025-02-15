@@ -1,8 +1,8 @@
 {
   "name": "zilp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "zmall interpreted lisp with pipes",
-  "main": "zilp.js",
+  "main": "zilp.mjs",
   "scripts": {
     "test": "npm run test"
   },
