@@ -1,0 +1,25 @@
+{
+  "name": "zilp",
+  "version": "0.0.1",
+  "description": "zmall interpreted lisp with pipes",
+  "main": "zilp.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixroos/zilp.git"
+  },
+  "keywords": [
+    "lisp",
+    "dsl",
+    "signal",
+    "flow"
+  ],
+  "author": "Felix Roos <flix91@gmail.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/felixroos/zilp/issues"
+  },
+  "homepage": "https://github.com/felixroos/zilp#readme"
+}
